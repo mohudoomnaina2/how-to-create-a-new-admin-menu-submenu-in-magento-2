@@ -1,6 +1,23 @@
 How To Create A New Admin Menu and Sub-Menu In Magento 2:-
 ==========================================================
 <b>WonderAndInstaSoft_CustomImportCategory [Note: My current vendor name is "WonderAndInstaSoft" and Module Name is "CustomImportCategory"]</b><br /><br />
+
+## File Structure
+## File Structure View:-
+## <br>=====================<br>
+```plaintext
+YourVendor
+|-- ModuleExample
+|   |-- composer.json
+|   |-- registration.php
+|   |-- etc
+|   |   |-- module.xml
+|   |-- etc
+|       |-- adminhtml
+|       |   |-- routes.xml
+|       |   |-- menu.xml
+|       |-- acl.xml
+
 <b>Step1:-</b> Create composer.json, registration.php and etc/module.xml files.<br />
 [<b>Reference Blog Link:-</b> https://www.thecoachsmb.com/create-module/].<br /><br />
 <b>Step2:-</b> Create etc/adminhtml/routes.xml and etc/adminhtml/menu.xml files.<br />
