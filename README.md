@@ -14,7 +14,6 @@ YourVendorName[Eg: WonderAndInstaSoft]
 |       |   |-- menu.xml
 |       |-- acl.xml
 ```
-<br />
 
 ## Procedures
 <b>WonderAndInstaSoft_CustomImportCategory [Note: My current vendor name is "WonderAndInstaSoft" and Module Name is "CustomImportCategory"]</b><br /><br />
