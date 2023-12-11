@@ -7,3 +7,5 @@ How To Create A New Admin Menu and Sub-Menu In Magento 2:-
 [<b>Reference Blog Link:-</b> https://www.thecoachsmb.com/how-to-create-a-new-admin-menu-submenu-in-magento-2/].<br /><br />
 <b>Step3:-</b> Create etc/acl.xml file.<br />
 [<b>Reference Blog Link:-</b> https://www.mageplaza.com/devdocs/magento-2-acl-access-control-lists.html].<br /><br />
+
+![Final_Output](https://github.com/mohudoomnaina2/how-to-create-a-new-admin-menu-submenu-in-magento-2/assets/70482911/47328b0a-7b5e-47e3-afa1-f5ef1dfc1772)
